@@ -2,7 +2,7 @@ Welcome! This repository contains code that helps reflect on software design que
 
 Here's the first one:
 
-1. When do you use single-use objects and when do you use multi-use objects? Why?
+# 1. When do you use single-use objects and when do you use multi-use objects? Why?
 
 A single-use object is an object you create by passing all parameters to the constructor and then execute something on those parameters. The object cannot be used with other values; to do the same operation with other values you have to create a new instance.
 
